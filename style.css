@@ -17,7 +17,7 @@ nav {
 
 header {
     background-color: #eadcff;
-    height: calc(100vh-70px);
+    height: calc(100vh - 70px);
     padding: 24px;
     display: flex;
     align-items: center;
@@ -104,10 +104,11 @@ h2 {
 }
 
 .section__description--wrapper {
-    width: 60px;
+    width: 60%;
 }
 
-.section__description--wrapper, .about__img--wrapper {
+.section__description--wrapper, 
+.about__img--wrapper {
     padding: 0 24px;
 }
 
