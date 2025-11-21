@@ -69,7 +69,10 @@ li {
     justify-content: center;
 }
 
-#about, #discord, #contact, footer {
+#about,
+#discord,
+#contact,
+footer {
     padding: 48px 0;
 }
 
